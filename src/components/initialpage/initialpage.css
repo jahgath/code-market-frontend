@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Libre+Franklin:wght@300&family=Noto+Sans+JP:wght@300&family=Roboto:wght@700&display=swap");
+
+.headerone {
+  display: inline-block;
+  font-size: 65px;
+  font-family: "Roboto";
+  position: relative;
+  background: linear-gradient(to right, #f16a70, #f16a70) no-repeat;
+  background-size: 30% 5px;
+  background-position: center bottom;
+}
+
+/*.headerone::after {
+  content: "";
+  bottom: 10;
+  left: 2;
+  height: 100;
+  width: 10%;
+  border-bottom: 2px solid #f16a70;
+  position: absolute;
+} */
+
+.imageone {
+  height: 900px;
+  width: 900px;
+}
+
+.nav-wrapper {
+  color: rgb(130, 0, 182);
+}
+
+.line {
+  width: 112px;
+  height: 47px;
+  border-bottom: 1px solid black;
+}
+
+.headertext {
+  font-size: 30px;
+  font-family: "Noto Sans";
+}
+
+.text {
+  margin-right: 30px;
+  font-size: 18px;
+}
